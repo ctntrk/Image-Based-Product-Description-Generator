@@ -5,9 +5,6 @@ This Python project is designed to generate marketing-oriented product descripti
 ## Google Colab Link: [**image-based product description generator.ipynb**](https://colab.research.google.com/drive/1pyubhtOnggayQdo-EN9XZHJd_ShFE5tj?usp=sharing)
 
 
-
-
-
 ---
 
 ## 🌟 **Features**
@@ -22,12 +19,15 @@ This Python project is designed to generate marketing-oriented product descripti
 
 ---
 
-## 📂 **Outputs**
+### 🚀 **Project Workflow**
 
-The following files will be generated at the end of the process:
-
-* **product\_descriptions.txt**: A plain text file containing the generated descriptions for each image. 📝
-* **product\_descriptions.csv**: A structured data file listing image names and their corresponding descriptions. 📊
+1. 🧑‍💻 **Start Google Colab** and enable TPU v4 ⚡
+2. 📦 **Install Required Libraries** (`torch`, `transformers`, `Pillow`)
+3. 🤖 **Load the SmolVLM-Instruct Model**
+4. 🖼️ **Upload Images** (.jpg, .jpeg, .png files from the folder)
+5. ✍️ **Generate Descriptions** using a marketing-oriented prompt
+6. 💾 **Save Results** to `.txt` and `.csv` files
+7. 📥 **Download the Output** files
 
 ---
 ## 🎯 **Use Cases**
@@ -41,3 +41,5 @@ The following files will be generated at the end of the process:
 * TPU v4 usage on Google Colab is recommended for optimal performance. 🚀
 * Only `.jpg`, `.jpeg`, or `.png` image formats will be processed. 🖼️
 * Any corrupted or unsupported images will be skipped and logged. ❌
+
+
