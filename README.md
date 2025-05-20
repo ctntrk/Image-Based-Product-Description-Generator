@@ -2,6 +2,12 @@
 
 This Python project is designed to generate marketing-oriented product descriptions based on images. It uses a vision-language model called **SmolVLM-Instruct**, which interprets both images and text. The model analyzes a given image and produces a compelling product description based on it. 📝✨
 
+## Google Colab Link: [**image-based product description generator.ipynb**](https://colab.research.google.com/drive/1pyubhtOnggayQdo-EN9XZHJd_ShFE5tj?usp=sharing)
+
+
+
+
+
 ---
 
 ## 🌟 **Features**
