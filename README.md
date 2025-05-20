@@ -19,6 +19,14 @@ This Python project is designed to generate marketing-oriented product descripti
 
 ---
 
+### 🛠️ **Technologies Used**
+
+* 🧠 **SmolVLM-Instruct** (Vision-Language Model)
+* ☁️💨 **Google Colab** & ⚡ **TPU v4**
+* 🤗 **Hugging Face Transformers**
+
+---
+
 ### 🚀 **Project Workflow**
 
 1. 🧑‍💻 **Start Google Colab** and enable TPU v4 ⚡
